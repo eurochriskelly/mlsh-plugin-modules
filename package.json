@@ -5,7 +5,7 @@
   "main": "scripts/index.js",
   "scripts": {
     "scaffold": "mlsh-scaffold",
-    "package": "mlsh-package",
+    "package": "mlsh-package"
   },
   "keywords": [],
   "author": "",
